@@ -1,0 +1,14 @@
+# FastAPI backend
+fastapi
+uvicorn
+pydantic
+
+# Google GenAI SDK (Gemini client)
+google-genai
+
+# Frontend / client
+streamlit
+requests
+
+# Env handling
+python-dotenv
